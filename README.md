@@ -6,3 +6,4 @@ Kumpulan sumber dan referensi untuk belajar Computer Science.
 - [TOKI](https://tlx.toki.id/courses/)
 - [VisuAlgo](https://visualgo.net/en)
 - [enjoyalgorithms](https://www.enjoyalgorithms.com/data-structures-and-algorithms-course/)
+- [Big O Cheatsheet](https://www.bigocheatsheet.com/) 
