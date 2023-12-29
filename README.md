@@ -8,3 +8,4 @@ Kumpulan sumber dan referensi untuk belajar Computer Science.
 - [enjoyalgorithms](https://www.enjoyalgorithms.com/data-structures-and-algorithms-course/)
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [Loop { Learn & Share }](https://loop-learn-share.netlify.app/)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
